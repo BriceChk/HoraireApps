@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Horaires Irigo</string>
+    <string name="tab_text_1">Timeo</string>
+    <string name="tab_text_2">Itinéraire &amp; horaires</string>
+
+    <string name="about_text">À propos</string>
+    <string name="menu_refresh">Actualiser</string>
+    <string name="recherche_rapide">Recherche rapide</string>
+    <string name="sync_wear">Synchroniser Android Wear</string>
+
+    <string name="no_card_title">C\'est vide ici !</string>
+    <string name="no_card_content">Ajoutez vos arrêts favoris ou\nutilisez la recherche rapide.</string>
+
+    <string name="no_internet_title">Pas d\'accès à internet</string>
+    <string name="no_internet_content">Vérifiez la connexion au\nWiFi ou au réseau mobile.</string>
+
+    <string name="about_credit">Les lignes, arrêts et horaires de passage sont ceux proposés par le service Timeo de Keolis. Il n\'est pas possible d\'en ajouter.</string>
+    <string name="about_reportbugs">Si vous trouvez un bug, ou si vous avez une suggestion, laissez un commentaire sur le Play Store.</string>
+    <string name="about_wear">Pour synchroniser votre liste d\'arrêts avec votre montre Android Wear, vous devez ouvrir l\'application sur la montre et le téléphone, puis appuyer sur le bouton \"Synchroniser Android Wear\" dans le menu.</string>
+
+    <string name="example_stopname">TAVANO</string>
+    <string name="example_linename"><![CDATA[Ligne 4 > BELLEVUE]]></string>
+    <string name="example_passages">3 minutes (15h43) | 2h05 (17h42)</string>
+    <string name="version_exemple">Version : 1.2.1</string>
+
+    <string name="error_oops">Oops !</string>
+    <string name="error_loading">Une erreur est survenue pendant le chargement.\nTimeo n\'est peut être pas disponible. Essayez d\'actualiser.</string>
+    <string name="error_devmsg">Message du développeur</string>
+
+    <string name="title_activity_choose_line">Choisir une ligne</string>
+    <string name="title_activity_choose_stop">Choisir un arrêt</string>
+</resources>

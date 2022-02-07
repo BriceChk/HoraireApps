@@ -1,0 +1,12 @@
+8536|9385|AUBEPINE|Saint-Barthélemy-d'Anjou
+15981|14512|CENTRE EQUESTRE|Saint-Barthélemy-d'Anjou
+23049|24160|CHENE VERT|Saint-Barthélemy-d'Anjou
+30005|30919|CROIX DE CHEMINEE|Saint-Barthélemy-d'Anjou
+27273|5906|GEMMETRIE|Saint-Barthélemy-d'Anjou
+22741|22121|JAUDETTE|Saint-Barthélemy-d'Anjou
+32650|829|JULES FERRY|Saint-Barthélemy-d'Anjou
+31088|13697|LA REUX|Saint-Barthélemy-d'Anjou
+18333|17581|MORLIERE|Saint-Barthélemy-d'Anjou
+25531|26837|PAPERIE|Saint-Barthélemy-d'Anjou
+11605|12422|STADE DE SAINT BARTHELEMY|Saint-Barthélemy-d'Anjou
+20782|20031|WALCOURT|Saint-Barthélemy-d'Anjou

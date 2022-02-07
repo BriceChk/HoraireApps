@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Horaires Irigo</string>
+
+    <string name="no_card_title">C\'est vide ici !</string>
+    <string name="no_card_line1">Ajoutez vos arrêts favoris ou</string>
+    <string name="no_card_line2">utilisez la recherche rapide.</string>
+
+    <string name="no_internet_title">Pas d\'accès à internet</string>
+    <string name="no_internet_line1">Vérifiez la connexion au</string>
+    <string name="no_internet_line2">WiFi ou au réseau mobile.</string>
+
+    <string name="example_stopname">TAVANO</string>
+    <string name="example_linename"><![CDATA[Ligne 4 > BELLEVUE]]></string>
+    <string name="example_passages">3 minutes (15h43) | 2h05 (17h42)</string>
+</resources>

@@ -1,0 +1,14 @@
+12061|30366|BEAU SOLEIL|Saint-Martin-du-Fouilloux
+1531|16698|BOURG DE SAINT MARTIN|Saint-Martin-du-Fouilloux
+31053|39215|CHATEAU|Angers
+32156|22225|CNFPT|Angers
+24470|7177|CROISEE|Saint-Jean-de-Linières
+9088|17363|GALILEE|Saint-Jean-de-Linières
+21525|7592|GARES SEMARD|Angers
+5358|5358|LA ROCHE|Saint-Jean-de-Linières
+17216|6187|LILAS|Saint-Jean-de-Linières
+1349|43351|LOMBARDIERES|Saint-Martin-du-Fouilloux
+20082|20807|MAIRIE DE SAINT JEAN DE LINIERES|Saint-Jean-de-Linières
+28837|4722|OLIVERAIE|Saint-Martin-du-Fouilloux
+31888|31888|PERRAUDIERE RD 723|Saint-Martin-du-Fouilloux
+16124|11921|PERRAUDIERE ZA|Saint-Martin-du-Fouilloux

@@ -1,0 +1,46 @@
+Ligne 2 > GALLIERE : 2_A
+Ligne 2 > BEAUREGARD : 2_R
+Ligne 3 > OASIS : 3_A
+Ligne 3 > GAZONFIER : 3_R
+Ligne 4 > BELLEVUE : 4_A
+Ligne 4 > SAINT GEORGES - ST JOSEPH : 4_R
+Ligne 5 > ARNAGE : 5_A
+Ligne 5 > GARE ROUTIERE : 5_R
+Ligne 6 > RAINERIES : 6_A
+Ligne 6 > LAFAYETTE : 6_R
+Ligne 8 > LES HALLES : 8_A
+Ligne 8 > PARC MANCEAU : 8_R
+Ligne 9 > ZAMENHOF : 9_A
+Ligne 9 > COMTES DU MAINE : 9_R
+Ligne 11 > CLOSERIE : 11_A
+Ligne 11 > LE CADRAN - SAINT AUBIN : 11_R
+Ligne 12 > SAINT MARTIN : 12_A
+Ligne 12 > REPUBLIQUE : 12_R
+Ligne 17 > OASIS : 17_A
+Ligne 17 > CIMETIERE DE L'OUEST : 17_R
+Ligne 18 > ROUILLON : 18_A
+Ligne 18 > SAINT-AUBIN : 18_R
+Ligne 19 > GUETTELOUP : 19_A
+Ligne 19 > LE VERGER : 19_R
+Ligne 20 > EPERON : 20_A
+Ligne 20 > AIGNÉ : 20_R
+Ligne 21 > ARNAGE : 21_A
+Ligne 21 > SAINT MARTIN : 21_R
+Ligne 22 > ZAMENHOF : 22_A
+Ligne 22 > SARGE : 22_R
+Ligne 23 > YVRE L'EVEQUE : 23_A
+Ligne 23 > REPUBLIQUE : 23_R
+Ligne 24 > MULSANNE : 24_A
+Ligne 24 > ANTARES-MMArena : 24_R
+Ligne 25 > CHAMPAGNÉ : 25_A
+Ligne 25 > RÉPUBLIQUE : 25_R
+Ligne 26 > ALLONNES : 26_A
+Ligne 26 > SAINT GEORGES - SAINT JOSEPH : 26_R
+Ligne 27 > ANTARES-MMArena : 27_A
+Ligne 27 > RUAUDIN : 27_R
+Ligne T1 > UNIVERSITE : T1_A
+Ligne T1 > ANTARES MMArena : T1_R
+Ligne T2 > BELLEVUE : T2_A
+Ligne T2 > ESPAL : T2_R
+Ligne T3 > GARES : T3_A
+Ligne T3 > BOIS JOLI : T3_R

@@ -1,0 +1,6 @@
+7177|24470|CROISEE|Saint-Jean-de-Linières
+17363|9088|GALILEE|Saint-Jean-de-Linières
+5358|5358|LA ROCHE|Saint-Jean-de-Linières
+6187|17216|LILAS|Saint-Jean-de-Linières
+20807|20082|MAIRIE DE SAINT JEAN DE LINIERES|Saint-Jean-de-Linières
+12810|12810|MONNET|Angers

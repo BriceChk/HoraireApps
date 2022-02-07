@@ -1,0 +1,14 @@
+7225|48579|AUBRY|Les Ponts-de-Cé
+7658|15961|BEL OEIL|Sainte-Gemmes-sur-Loire
+23457|19966|CLOS NEUF|Sainte-Gemmes-sur-Loire
+12393|7690|COSSE|Les Ponts-de-Cé
+3118|6304|HOPITAL DE SAINTE GEMMES|Sainte-Gemmes-sur-Loire
+10466|7382|HUTREAU|Sainte-Gemmes-sur-Loire
+23633|13574|LA VENRIE|Sainte-Gemmes-sur-Loire
+12874|9672|LE CHENE|Sainte-Gemmes-sur-Loire
+30148|9108|LE PORT|Sainte-Gemmes-sur-Loire
+5502|25672|LES ROSES|Sainte-Gemmes-sur-Loire
+22893|26592|LOUPINOT|Sainte-Gemmes-sur-Loire
+3967|29461|MAIRIE DE SAINTE GEMMES|Sainte-Gemmes-sur-Loire
+6743|14532|ROUTE D'ANGERS|Sainte-Gemmes-sur-Loire
+32360|32360|SAINTE GEMMES - ROCHE MORNA|Sainte-Gemmes-sur-Loire

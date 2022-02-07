@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Horaires Setram</string>
+    <string name="tab_text_1">Timeo</string>
+    <string name="tab_text_2">Itinéraire &amp; horaires</string>
+
+    <string name="about_text">À propos</string>
+    <string name="menu_refresh">Actualiser</string>
+    <string name="recherche_rapide">Recherche rapide</string>
+    <string name="sync_wear">Synchroniser Android Wear</string>
+
+    <string name="about_credit">Les lignes, arrêts et horaires de passage proposés sont ceux proposés par le service Timeo de la Setram. Il n\'est pas possible d\'en ajouter.</string>
+    <string name="about_reportbugs">Si vous trouvez un bug, ou si vous avez une suggestion, laissez un commentaire sur le Play Store.</string>
+    <string name="about_wear">Pour synchroniser votre liste d\'arrêts avec votre montre Android Wear, vous devez ouvrir l\'application sur la montre et le téléphone, puis appuyer sur le bouton \"Synchroniser Android Wear\" dans le menu.</string>
+
+    <string name="example_stopname">TAVANO</string>
+    <string name="example_linename"><![CDATA[Ligne 4 > BELLEVUE]]></string>
+    <string name="example_passages">3 minutes (15h43) | 2h05 (17h42)</string>
+    <string name="version_exemple">Version : 1.2.1</string>
+
+    <string name="warning_button">Warning button</string>
+    <string name="about_itineraires"><![CDATA[L\'onglet \"Itinéraire & Horaires\" est un simple affichage de la page web Setram. Le but principal de l\'application est de donner les horaires en temps réel, cette page n\'est qu\'un supplément pouvant être utile.]]></string>
+    <string name="card_error_value">0</string>
+</resources>

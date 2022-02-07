@@ -1,0 +1,4 @@
+2380|114|CROIX DE SARTHE|Cantenay-Épinard
+3203|10301|MAROTTIERES|Cantenay-Épinard
+16344|12311|MASSON|Cantenay-Épinard
+20665|10261|RONCERAY|Cantenay-Épinard
