@@ -12,3 +12,5 @@ Two apps were published on the Play Store:
 - Horaires Irigo (10/08/2017 - 09/2018) for Angers, accompanied by a WearOS app
 
 The Keolis API used by these apps is now closed. This repo serves as an archive for this project, as it was my first Android app made during high school.
+
+The last update to this app was made in 2018 (previously in a private repository).
